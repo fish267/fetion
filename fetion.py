@@ -6,10 +6,9 @@
 import urllib2
 import sys
 #------------------ initial fetion account------------------------------
-sender = '15129245130'
-passwd = 'a251125'
-#receiver = '15129245130'
-receiver = '15289084267'
+sender = '1******'
+passwd = '******'
+receiver = '1*****'
 #------------------ define fetion module--------------------------------
 class Fetion:
 	base_url = 'http://quanapi.sinaapp.com/fetion.php?'
