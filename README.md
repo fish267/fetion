@@ -6,6 +6,7 @@
     -python fetion 发送的内容
 ###3.gui_fetion.py使用方法
 ![](https://github.com/fish267/fetion/blob/master/ss.png?raw=true)
+
     -带界面的，不用解释
     -存在不足，有一个发送天气预报，还没完善
 ###4.weather.py
